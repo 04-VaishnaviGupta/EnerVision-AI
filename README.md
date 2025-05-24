@@ -76,10 +76,10 @@ Follow these steps to run the project locally:
 
 ```bash
 # Step 1: Clone the repository
-git clone https://github.com/soumya-1712/radiant-future-ai.git
+https://github.com/04-VaishnaviGupta/EnerVision-AI.git
 
 # Step 2: Navigate to the project folder
-cd radiant-future-ai
+cd EnerVision-AI
 
 # Step 3: Install dependencies
 npm install
