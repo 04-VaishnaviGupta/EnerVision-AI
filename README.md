@@ -86,9 +86,17 @@ npm install
 
 # Step 4: Run the application
 npm start
+
 ---
-Once the server is running, open your browser and go to:
-👉 http://localhost:3000
+
+## 🔗 Access the Application
+
+Once the server is running, open your browser and navigate to:
+
+👉 **http://localhost:3000**
+
 ---
-🌟 Final Thoughts
-EnerVision AI bridges the gap between solar energy potential and real-world application. Whether you're a homeowner, a business, or a sustainability advocate, this tool helps you make intelligent, eco-friendly, and financially sound decisions regarding solar energy adoption.
+
+## 🌟 Final Thoughts
+
+**EnerVision AI** bridges the gap between solar energy potential and practical implementation. Whether you're a homeowner looking to reduce energy costs, a business aiming for sustainability, or a consultant exploring smart energy solutions, this platform empowers you with data-driven insights for intelligent, eco-friendly, and financially sound solar energy adoption.
