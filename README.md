@@ -61,10 +61,4 @@ The Radiant Future AI project is an AI-driven solution designed to provide perso
     ```
 4. Access the application at `http://localhost:3000`.
 
-### Contributors
-- [Soumya Dhakad](https://github.com/soumya-1712)
-- [Hardik Kanzariya](https://github.com/MrHardik-k)
-- [Aman Raj](https://github.com/Amanraj4482)
-- [Priyanshu Pandey](https://github.com/Harshpf)
-
 ---
